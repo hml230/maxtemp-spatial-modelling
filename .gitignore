@@ -1,0 +1,12 @@
+# --- Environment ---
+.Rhistory
+.RData
+.RDataTmp
+.env
+*.ini
+.Rproj.*
+.Rproj.user
+references/
+output/
+*.txt
+*.csv
