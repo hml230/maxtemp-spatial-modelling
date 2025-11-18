@@ -10,7 +10,7 @@ The deprecated EDA module contains code for the time series plot and the Hovmoll
 
 ## Dependencies
 
-### General Packages
+### Packages for Data Processing
 
 - `netcdf4`
 
@@ -22,6 +22,6 @@ The deprecated EDA module contains code for the time series plot and the Hovmoll
 
 - `dplyr` and `tidyr`
 
-### Modelling Packages
+### Packages for Modelling
 
 - `gstat` (required), `FRK`, and `GpGp`
